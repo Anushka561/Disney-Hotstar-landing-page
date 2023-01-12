@@ -1,5 +1,5 @@
 "use strict";
-console.log("Started part");
+
 //////////////////////////////////////////////////
 // imp variables
 
@@ -288,7 +288,7 @@ select("#notification-cut").addEventListener("click", () => {
 window.addEventListener("scroll", () => {
     let { scrollHeight, scrollTop, clientHeight } = document.documentElement;
     if (clientHeight + scrollTop > scrollHeight*0.98 && numberOfLayer && scrollNewLayer) {
-        console.log("You reached end of website")
+   
         if (numberOfLayer % 2) {
             createLayel("Latest & Trending");
         } else {
