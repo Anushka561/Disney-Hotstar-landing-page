@@ -69,11 +69,17 @@
 #contect-me a{
     width: 70px;
     height: 50px;
-    background-size: cover;
-    background-repeat: no-repeat;
+
     margin-bottom: 3%;
 }
+.github,.twitter{
+    text-decoration: none;
+    
+}
+.github:hover,.twitter:hover{
+    color:#1f80e0;
 
+}
 
 /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 /*                            Nav Bar                            */
