@@ -1,0 +1,231 @@
+{
+    "Latest & Trending": {
+        "0": {
+            "id": "AAAAAAAAA",
+            "show-title": "Jaya jaya jaya jaya hey",
+            "sub-info": "1 hr 54 min,Action, Adventure, Comedy, English, Hindi, Tamil, Telugu, 2021",
+            "description": "Guy, a bank teller, discovers he is a background player in an open-world video game and decides to b ...",
+            "type": "MOVIE"
+        },
+        "1": {
+            "id": "AAAAAAAAB",
+            "show-title": "Govinda Naam Mera",
+            "sub-info": "Comedy, Drama, Hindi, 2021",
+            "description": "Wedged betweeen a Court case, a bad marriage and a girlfriend, Govinda Waghmare get further entangled in incidents complicating his already...",
+            "type": "MOVIE"
+        },
+        "2": {
+            "id": "AAAAAAAAC",
+            "show-title": "Jagamemaya",
+            "sub-info": "1 hr 26 min,Mystery,Drama,Telugu,Malyalam, Hindi, 2021",
+            "description": "Love-struck Jaggi can cross the seven seas for his dream girl, Kartika. Even if it means stopping he ...",
+            "type": "MOVIE"
+        },
+        "3": {
+            "id": "AAAAAAAAD",
+            "show-title": "Fall",
+            "sub-info": "2 hr 14 min,Horror, Hindi, 2021",
+            "description": "A scary journey begins when a small-time thief, Rudra, enters a haunted castle and gets pulled into  ...",
+            "type": "MOVIE"
+        },
+        "4": {
+            "id": "AAAAAAAAE",
+            "show-title": "Monster",
+            "sub-info": "2 hr 8 min,Horror, Comedy, Hindi, 2021",
+            "description": "Two brothers Vibhooti and Chiraunji have ‘fought’ their share of ghosts. However, a new case forces  ...",
+            "type": "MOVIE"
+        },
+        "5": {
+            "id": "AAAAAAAAF",
+            "show-title": "Freddy",
+            "sub-info": "2 hr 13 min,Superhero, Action, English, Hindi, 2021",
+            "description": "A socially Awkward dentist comes in a socially awkward situtation",
+            "type": "MOVIE"
+        },
+        "6": {
+            "id": "AAAAAAAAG",
+            "show-title": "Willow",
+            "sub-info": "2 hr 13 min,Crime, Comedy, English, Hindi, Tamil, Telugu, 2021",
+            "description": "The film is about the rebellious early days of cinema's most notorious and fashionable villains, the ...",
+            "type": "MOVIE"
+        },
+        "7": {
+            "id": "AAAAAAAAH",
+            "show-title": "Sita Ram",
+            "sub-info": "Drama, Historical, Hotstar Specials",
+            "description": "On a letter-delivering task, Afreen learns of a 20-year-old romance set amidst a war. ",
+            "type": "MOVIE"
+        },
+        "8": {
+            "id": "AAAAAAAAI",
+            "show-title": "Brahmastra",
+            "sub-info": "1 hr 53 min,Action, Historical, Hindi, Tamil, Telugu, 2021",
+            "description": "Shive gets stuck in an epic journey of love and self-discovery after he discovers a ,mysterious power within him",
+            "type": "MOVIE"
+        },
+        "9": {
+            "id": "AAAAAAAAJ",
+            "show-title": "Prey",
+            "sub-info": "Mythology, Animation, Hotstar Specials",
+            "description": "Hanuman has realised his limitless powers, and now he must journey alone to Lanka to face the might  ...",
+            "type": "web series"
+        },
+        "10": {
+            "id": "AAAAAAAAK",
+            "show-title": "City of Dreams",
+            "sub-info": "Drama, Hotstar Specials",
+            "description": "Ameya Gaikwad has lost everything to his daughter, Poornima. As her popularity grows, so does his de ...",
+            "type": "web series"
+        },
+        "11": {
+            "id": "AAAAAAAAL",
+            "show-title": "Thor",
+            "sub-info": "2 hr 31 min,Comedy, Hindi, 2021",
+            "description": "Thor sets out a journey to defeat makelith, The leader of the dark elvs when he returns to Asgard to fullfill his...",
+            "type": "MOVIE"
+        },
+        "12": {
+            "id": "AAAAAAAAM",
+            "show-title": "Cuttputli",
+            "sub-info": "1 hr 26 min,Thriller, Crime, Hindi, 2021",
+            "description": "A celebrated cop is forced to commit crimes before a suicide bomber blows up a school. As he races a ...",
+            "type": "MOVIE"
+        },
+        "13": {
+            "id": "AAAAAAAAN",
+            "show-title": "Grahan",
+            "sub-info": "Drama, Thriller, Hotstar Specials",
+            "description": "It's 1984 - a tender love story succumbs to the anti-Sikh riots. It's 2016 - IPS officer Amrita Sing ...",
+            "type": "web series"
+        },
+        "14": {
+            "id": "AAAAAAAAO",
+            "show-title": "Kadavar",
+            "sub-info": "1 hr 33 min,Musical, Drama, Hindi, 2021",
+            "description": "Mumbai to Ajmer, a squabbling family, a band and clashing values. Along the roads of friendship and  ...",
+            "type": "MOVIE"
+        },
+        "15": {
+            "id": "AAAAAAAAP",
+            "show-title": "Loki",
+            "sub-info": "Superhero, Science Fiction, Action, Fantasy, Marvel",
+            "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place  ...",
+            "type": "web series"
+        }
+    },
+    "Popular Shows": {
+        "0": {
+            "id": "AAAAAAAAQ",
+            "show-title": "Anupama",
+            "sub-info": "1 hr 47 min,Animation, Fantasy, Adventure, Kids, English, Hindi, Tamil, Telugu, 2021",
+            "description": "Despite the many challenges thrown her way, Anupama begins a new chapter of her life post divorce. H ...",
+            "image-url": "raya-and-the-last-dragon",
+            "type": "MOVIE"
+        },
+        "1": {
+            "id": "AAAAAAAAR",
+            "show-title": "Ghum Hai Kisikey",
+            "sub-info": "Romance, StarPlus",
+            "description": "Going beyond the chains of duty, Virat is slowly falling in love with Sai. But will Pakhi too let go ...",
+            "type": "hindi serial"
+        },
+        "2": {
+            "id": "AAAAAAAAS",
+            "show-title": "Yeh Rishta",
+            "sub-info": "Drama, StarPlus",
+            "description": "After the tragic loss of Naira, Kartik comes across her lookalike Sirat, a hardworking boxer. As he  ...",
+            "type": "hindi serial"
+        },
+        "3": {
+            "id": "AAAAAAAAT",
+            "show-title": "Imli",
+            "sub-info": "Romance, StarPlus",
+            "description": "Going beyond the chains of duty, Virat is slowly falling in love with Sai. But will Pakhi too let go ...",
+            "type": "hindi serial"
+        },
+        "4": {
+            "id": "AAAAAAAAU",
+            "show-title": "Aashiqana",
+            "sub-info": "Drama, StarPlus",
+            "description": "Gautam and Dhara sacrifice a lot to raise his brothers Dev, Shiva and Krish while managing the shop. ...",
+            "type": "cartoon"
+        },
+        "5": {
+            "id": "AAAAAAAAV",
+            "show-title": "Ernekulam shag",
+            "sub-info": "Drama, StarPlus",
+            "description": "finding the love of his life, but his family won't accept the girl frm another caste",
+            "type": "telegu serial"
+        },
+        "6": {
+            "id": "AAAAAAAAW",
+            "show-title": "Doraemon",
+            "sub-info": "Kids, Select Picks",
+            "description": "Trouble seems to follow Nobita around. Fortunately for him, he’s got Doraemon, a trusty cat-type rob ...",
+            "type": "cartoon"
+        },
+        "7": {
+            "id": "AAAAAAAAK",
+            "show-title": "City of Dreams",
+            "sub-info": "Drama, Hotstar Specials",
+            "description": "Ameya Gaikwad has lost everything to his daughter, Poornima. As her popularity grows, so does his de ...",
+            "type": "web series"
+        },
+        "8": {
+            "id": "AAAAAAAAX",
+            "show-title": "Kofee with Karan",
+            "sub-info": "Reality, Celebrities",
+            "description": "Gossip happens with the Bollywood celebs with the one and only Karan Johar...",
+            "type": "reality show"
+        },
+        "9": {
+            "id": "AAAAAAAAY",
+            "show-title": "Home Delivery",
+            "sub-info": "Family, Drama, StarPlus",
+            "description": "Gautam and Dhara sacrifice a lot to raise his brothers Dev, Shiva and Krish while managing the shop. ...",
+            "type": "hindi serial"
+        },
+        "10": {
+            "id": "AAAAAAAAZ",
+            "show-title": "Na umra ki seema ho",
+            "sub-info": "Romance, StarPlus",
+            "description": " Friends or foes? Fake or real? Honest or two-faced? The boss of r ...",
+            "type": "hindi serial"
+        },
+        "11": {
+            "id": "AAAAAAABA",
+            "show-title": "Pandya Store",
+            "sub-info": "Family, Drama, StarPlus",
+            "description": "Gautam and Dhara sacrifice a lot to raise his brothers Dev, Shiva and Krish while managing the shop. ...",
+            "type": "hindi serial"
+        },
+        "12": {
+            "id": "AAAAAAAAH",
+            "show-title": "Sita Ram",
+            "sub-info": "Drama, Historical, Hotstar Specials",
+            "description": "On a letter-delivering task, Afreen learns of a 20-year-old romance set amidst a war. ",
+            "type": "MOVIE"
+        },
+        "13": {
+            "id": "AAAAAAAAI",
+            "show-title": "Brahmastra",
+            "sub-info": "1 hr 53 min,Action, Historical, Hindi, Tamil, Telugu, 2021",
+            "description": "Shive gets stuck in an epic journey of love and self-discovery after he discovers a ,mysterious power within him",
+            "type": "MOVIE"
+        },
+        "14": {
+            "id": "AAAAAAABC",
+            "show-title": "Game Of Thrones",
+            "sub-info": "Action, Adventure, Fantasy, HBO Originals",
+            "description": "Summers span decades. Winters can last a lifetime. Whilst kingdoms fight each other for the control  ...",
+            "type": "web series"
+        },
+        "15": {
+            "id": "AAAAAAABD",
+            "show-title": "Mehndi Hai Rachne Waali",
+            "sub-info": "Drama, StarPlus",
+            "description": "Despite being married under unfavourable circumstances, Pallavi and Raghav fall in love with each ot ...",
+            "type": ""
+        }
+    }
+}

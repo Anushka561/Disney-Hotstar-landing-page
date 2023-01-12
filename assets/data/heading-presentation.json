@@ -1,0 +1,39 @@
+{
+    "0":{
+        "name":"Govinda Naam Mera",
+        "about":["Hindi","Comedy","2022"],
+        "description":"Wedged betweeen a Court case, a bad marriage and a girlfriend, Govinda Waghmare get further entangled in incidents complicating his already...",
+        "image-url":"govindanaammera"
+    },
+    "1":{
+        "name":"Brentford 2-2 Tottenham",
+        "about":["Premier League 2022/23","English"],
+        "description":"Tottenham staged yet  another revival to nick a point at Brentford at the gameweek 17 of the Premier league 2022",
+        "image-url":"football"
+    },
+    "2":{
+        "name":"Avengers: Endgame",
+        "about":["3 hr 1 min","2019","Superhero","U/A 13+"],
+        "description":"After the devastating events of the Infinity War, the Avengers assemble once more to reverse Thanos’ actions and restore balance to the universe.",
+        "image-url":"avengers-endgame"
+    },
+    "3":{
+        "name":"Iron Man 3",
+        "about":["2 hr 10 min","2013","Superhero","U/A 13+"],
+        "description":"Tony Stark encounters a formidable foe called the Mandarin, and after failing to him, he embarks on a journey with relentless consequences.",
+        "image-url":"iron-man-3"
+    },
+    "4":{
+        "name":"Fall",
+        "about":["Hotstar Specials","Mystery"],
+        "description":"An accident followed  by a mystery loss, has Divya trying to piece her life together. Will her dear ones understand the quest for her truth",
+        "image-url":"fall"
+    },
+    "5":{
+        "name":"Captain America: Civil War",
+        "about":["2 hr 21 min","2016","Superhero","U/A 13+"],
+        "description":"The government's decision to push a Hero Registration Act to regulate heroes creates a rift among the Avengers and other heroes. Watch Captain America: Civil War - English Superhero movie on Disney+ Hotstar VIP now.",
+        "image-url":"captain-america-civil-war"
+    }
+  
+}
