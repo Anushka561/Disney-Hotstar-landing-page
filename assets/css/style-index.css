@@ -57,16 +57,20 @@
     font-weight: bold;
     text-decoration:none;
 }
-
+#contect-me{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: fit-content;
+}
 #notification h3{
     text-align: center;
 }
+#contect-me a{
+    width: 70px;
+    height: 50px;
 
-#notification-cut{
-    content:  url(../img/page-element/icons8-multiply-30.png);
-    margin-left: auto;
-    margin-top: 5px;
-    margin-right: 5px;
+    margin-bottom: 3%;
 }
 
 
